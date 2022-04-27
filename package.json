@@ -1,0 +1,17 @@
+{
+  "name": "covid-daily-cases",
+  "version": "1.0.0",
+  "description": " COVID Daily Cases Project",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "npm install --prefix server",
+    "install": "npm run install-server",
+    "server": "npm run watch --prefix server",
+    "watch": "npm run server",
+    "deploy": "npm start --prefix server",
+    "test": "npm test --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
