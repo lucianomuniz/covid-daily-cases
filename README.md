@@ -1,6 +1,6 @@
 # Project Title
 
-COVID Daily Cases Project
+COVID Daily Cases
 
 ## Project Description
 
