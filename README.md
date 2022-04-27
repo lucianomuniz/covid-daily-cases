@@ -38,7 +38,7 @@ Total number of sequences (for the country, variant and date);
 
 The routes are prepared for versioning as the project grows and as needed, and were configured to work with the Version 1 (v1).
 
-To access the APIs use the URL: [http://18.231.191.95:8000](http://18.231.191.95:8000) or [http://localhost:8000](http://localhost:8000) if the app running on developement mode, and add the routes below after the URL to access the APIs data.
+To access the APIs use the URL: [http://18.231.191.95:8000/](http://18.231.191.95:8000/v1/) or [http://localhost:8000](http://localhost:8000) if the app running on developement mode, and add the routes below after the URL to access the APIs data.
 
 The postman scripts, used to test the API routes, is included on the project root folder `covid-daily-cases.postman_collection.json`.\
 You can import it on [Postman](https://www.postman.com/).
@@ -201,4 +201,4 @@ API plataform to manage API requests.
 
 ## Disclaimer
 
-This is a challenge by Coodesh
+This is a challenge by [Coodesh](https://coodesh.com/).
