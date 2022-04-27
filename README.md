@@ -34,7 +34,7 @@ Percentage of sequences from the total number of sequences (for the country, var
 
 Total number of sequences (for the country, variant and date);
 
-## API routes
+## API Routes
 
 The routes are prepared for versioning as the project grows and as needed, and were configured to work with the Version 1 (v1).
 
